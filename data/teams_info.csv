@@ -1,0 +1,31 @@
+team,conference,division
+philadelphia 76ers,est,atlantique
+brooklyn nets,est,atlantique
+boston celtics,est,atlantique
+toronto raptors,est,atlantique
+new york knicks,est,atlantique
+milwaukee bucks,est,centre
+indiana pacers,est,centre
+cleveland cavaliers,est,centre
+chicago bulls,est,centre
+detroit pistons,est,centre
+charlotte hornets,est,sudest
+atlanta hawks,est,sudest
+miami heat,est,sudest
+orlando magic,est,sudest
+washington wizards,est,sudest
+utah jazz,ouest,nordouest
+portland trail blazers,ouest,nordouest
+denver nuggets,ouest,nordouest
+oklahoma city thunder,ouest,nordouest
+minnesota timberwolves,ouest,nordouest
+los angeles lakers,ouest,pacifique
+los angeles clippers,ouest,pacifique
+phoenix suns,ouest,pacifique
+sacramento kings,ouest,pacifique
+golden state warriors,ouest,pacifique
+san antonio spurs,ouest,sudouest
+houston rockets,ouest,sudouest
+memphis grizzlies,ouest,sudouest
+new orleans pelicans,ouest,sudouest
+dallas mavericks,ouest,sudouest
